@@ -1,0 +1,1 @@
+This is a collection of exercises from my reading of the new Turing Omnibus.
